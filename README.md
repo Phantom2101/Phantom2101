@@ -12,9 +12,11 @@ Java ☕
 Python 🐍
 
 🤖 Machine Learning Enthusiast - Exploring the power of AI and ML.
+
 🛠️ Database Knowledge - MySQL 💾
 
 🌱 Currently learning and building cool projects to make an impact!
+
 🚀 Always looking to collaborate on interesting projects.
 
 <!---
