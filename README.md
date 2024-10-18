@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Phantom2101
+- 👋 Hi, I’m Affan
 - 👀 I’m interested in FullStack Development and Machine Learning
 - 📫 How to reach me - affankotwal@gmail.com
 
